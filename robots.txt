@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://musama99.github.io/usama-apps/sitemap.xml
