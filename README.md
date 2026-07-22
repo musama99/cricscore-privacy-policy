@@ -25,7 +25,7 @@ The website currently features **CricScore**, an offline cricket scoring app, an
 Clone the repository:
 
 ```bash
-git clone https://github.com/musama99/usama-apps.git
+git clone https://github.com/musama99/usama-apps-studio.git
 ```
 
 Open the project directory:
@@ -62,8 +62,8 @@ No build command is required.
 
 ## Live website
 
-https://musama99.github.io/usama-apps/
+https://musama99.github.io/usama-apps-studio/
 
 ## CricScore Privacy Policy
 
-https://musama99.github.io/usama-apps/privacy/cricscore.html
+https://musama99.github.io/usama-apps-studio/privacy/cricscore.html
